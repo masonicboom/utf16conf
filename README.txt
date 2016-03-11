@@ -1,0 +1,1 @@
+Package utf16conv automatically converts UTF-16 to UTF-8.
