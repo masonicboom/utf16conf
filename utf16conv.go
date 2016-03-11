@@ -1,5 +1,5 @@
 // Package utf16conv automatically converts UTF-16 to UTF-8.
-package main
+package utf16conv
 
 import (
 	"bytes"

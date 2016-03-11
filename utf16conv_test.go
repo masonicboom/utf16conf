@@ -1,4 +1,4 @@
-package main
+package utf16conv
 
 import (
 	"bytes"
